@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter moblie app development 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
-- 📫 How to reach me bhavikattiabhishek07@gmail.com
+- 📫 How to reach me abhirider893@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
